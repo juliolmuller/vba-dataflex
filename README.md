@@ -1,7 +1,7 @@
 
 # Dataflex Module for Visual Basic for Application
 
-- **Developed by:** [Julio L. Muller](https://www.linkedin.com/in/juliolmuller/)
+- **Developed by:** [Julio L. Muller](https://www.jjsolutions.net/)
 - **Released on:** Jul 15, 2018
 - **Updated on:** Jan 31, 2019
 - **Latest version:** 1.0.0
