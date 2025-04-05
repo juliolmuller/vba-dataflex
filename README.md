@@ -5,7 +5,7 @@
 - **Released on:** Jul 15, 2018
 - **Updated on:** Jan 31, 2019
 - **Latest version:** 1.0.0
-- **License:** *FREE*
+- **License:** MIT
 
 ## Installation
 
@@ -124,7 +124,7 @@ Below, you can see an example on dowloading a *Audit Trail Report*.
 
 ## Compatibility
 
-The scripts were tested **ONLY** in MS Excel & Access 2013. Other MS Office applications were not tested. 
+The scripts were tested **ONLY** in MS Excel & Access 2013. Other MS Office applications were not tested.
 
 Please, report any issues (or even success on running it in other applications or MS Office versions) through the commentary session.
 
